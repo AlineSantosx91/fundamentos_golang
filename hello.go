@@ -16,6 +16,10 @@ const monitoramentos = 3
 const delay = 5
 
 func main() {
+
+	nome := "Aline"
+	fmt.Println(nome)
+
 	exibirIntroducao()
 
 	for {
